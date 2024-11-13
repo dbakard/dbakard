@@ -2,7 +2,7 @@
 
 I am a Junior at the University of Tennessee, Knoxville 🍊, majoring in Computer Science 🖥️ and minoring in Economics 💰.
 
-#### Languages
+### Languages
 
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-blue?logo=c)
