@@ -6,7 +6,7 @@ I am a Junior at the University of Tennessee, Knoxville 🍊, majoring in Comput
 
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-blue?logo=c)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&logo=mysql&logoColor=white)
